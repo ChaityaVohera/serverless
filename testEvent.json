@@ -1,0 +1,9 @@
+{
+  "Records": [
+    {
+      "Sns": {
+        "Message": "{\"email\": \"chaitya.cv@gmail.com\", \"verificationToken\": \"56523432536345\", \"baseURL\": \"https://demo.chaityavohera.me\", \"verificationPath\": \"/verify\"}"
+      }
+    }
+  ]
+}
